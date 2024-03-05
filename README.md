@@ -64,8 +64,6 @@ cp .env.example .env
 
 If you want to generate a `GITHUB_TOKEN` you can follow this [Github tutorial](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens).
 
-### Begin working on the [Notebook](https://github.com/korbit-ai/ml-challenge/blob/main/ML-engineer-challenge.ipynb) in your fork of the repo
-
 ## Expectations:
 
 - **Creativity & Innovation**: We are looking for creative solutions that push the boundaries of the current implementation. Your approach should be novel yet pragmatic, capable of improving the efficiency and effectiveness of the PR review process.
@@ -77,3 +75,6 @@ If you want to generate a `GITHUB_TOKEN` you can follow this [Github tutorial](h
 Push to your github repository your enhanced notebook with comments and documentation illustrating your thought process and decisions. You can then invite `@korbit-ai-mentor` as a collaborator for the review process.
 
 This challenge is not only about improving upon existing functionalities but also about showcasing your ability to innovate and think critically about complex engineering problems. Good luck, and we look forward to reviewing your enhancements to our PR reviewer LLM system!
+
+
+# Begin working on the [Notebook](ML-engineer-challenge.ipynb) in your private repository.
