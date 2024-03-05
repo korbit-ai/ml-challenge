@@ -1,0 +1,6 @@
+__pycache__
+*.pem
+.env
+repositories/*
+!repositories/.gitkeep
+.chromadb

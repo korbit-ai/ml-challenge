@@ -1,0 +1,24 @@
+name: korbit-ml-challenge
+channels:
+  - conda-forge
+dependencies:
+  - python-dotenv
+  - fuzzywuzzy
+  - pandas
+  - pip
+  - pydantic>=2, <3
+  - pytest
+  - python=3.12
+  - scipy
+  - tiktoken
+  - ipykernel
+  - pip:
+      - PyGithub
+      - githubkit
+      - requests
+      - langchain
+      - langchain-community
+      - langchain-openai
+      - langchainhub
+      - chromadb
+      - esprima
