@@ -73,7 +73,7 @@ If you want to generate a `GITHUB_TOKEN` you can follow this [Github tutorial](h
 ## Expectations:
 
 - **Creativity & Innovation**: We are looking for creative solutions that push the boundaries of the current implementation. Your approach should be novel yet pragmatic, capable of improving the efficiency and effectiveness of the PR review process.
-- **Evaluation**: Each proposed enhancement should be accompanied by a rationale explaining why this improvement is beneficial, along with any potential drawbacks or considerations. We encourage candidates to include any experiments, metrics, or tests that support their proposals.
+- **Evaluation**: Each proposed enhancement should be accompanied by a rationale explaining why this improvement is beneficial, along with any potential drawbacks or considerations. We encourage candidates to include any experiments, metrics, or tests that support their proposals - it's very important to consider the output of your code as the most critical piece of this challenge, not simply the code itself.
 
 ## Submission Guidelines:
 
