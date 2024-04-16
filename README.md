@@ -78,7 +78,7 @@ If you want to generate a `GITHUB_TOKEN` you can follow this [Github tutorial](h
 ## Submission Guidelines:
 
 1. As you work, push to your github repository your enhanced notebook with comments and documentation illustrating your thought process and decisions
-2. When you have completed your challenge, invite `@korbit-ai-mentor` as a collaborator in your repository so that we can review your work before the follow-on working session
+2. When you have completed your challenge, invite `@korbit-services` as a collaborator in your repository so that we can review your work before the follow-on working session
 
 This challenge is not only about improving upon existing functionalities but also about showcasing your ability to innovate and think critically about complex engineering problems. Good luck, and we look forward to reviewing your enhancements to our PR reviewer LLM system!
 
