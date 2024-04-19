@@ -101,5 +101,5 @@ def extract_json_from_text(output: str) -> str:
     if match:
         code_block_content = match.group(1)
 
-    json_object = json.loads(code_block_content, strict=False)
+    json_object = json.loads(code_block_content, strict=False, indent=4)
     return json_object
